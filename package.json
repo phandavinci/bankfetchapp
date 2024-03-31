@@ -1,0 +1,22 @@
+{
+  "name": "bankfetchapp",
+  "version": "1.0.0",
+  "description": "to fetch the transactions from bank account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phandavinci/bankfetchapp.git"
+  },
+  "author": "Abishek Nallathambi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phandavinci/bankfetchapp/issues"
+  },
+  "homepage": "https://github.com/phandavinci/bankfetchapp#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
